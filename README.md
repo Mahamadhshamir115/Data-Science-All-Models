@@ -1,2 +1,1 @@
-# ExcelR-Data-Science-Assignments
-Assignments
+# ExcelR-Data-Science
